@@ -22,6 +22,7 @@ most bounties, and creating an account is free.
 - [What you need before you start](#what-you-need-before-you-start)
 - [Step 1 — Create your account](#step-1--create-your-account)
 - [Step 2 — Pick a bounty you can actually win](#step-2--pick-a-bounty-you-can-actually-win)
+- [Mistakes first-timers make](#mistakes-first-timers-make)
 - [Step 3 — Get the bounty's kit](#step-3--get-the-bountys-kit)
 - [Step 4 — Build the entry with your agent](#step-4--build-the-entry-with-your-agent)
 - [Step 5 — Submit it](#step-5--submit-it)
@@ -103,6 +104,24 @@ Read the rules before you build — that is the step most first-timers skip. Som
 software or an account somewhere else, and their page says so first. A good first bounty is one
 whose rules you understand in one read, whose practice grade you can run locally, and whose
 deadline gives you time to fix a rejection and resubmit.
+
+If you cannot decide between two, pick the one with the smaller scope and the clearer scoring:
+a small, well-specified task you can finish beats a big, vague one you cannot. Your first entry
+is for learning the loop — sign in, kit, build, bundle, submit, fix — and that loop is the same
+whatever the bounty is.
+
+## Mistakes first-timers make
+
+- **Building in a session started before the bounty opened.** Those sessions cannot be entered,
+  no matter how good the code is. Open a fresh session after the opening, every time.
+- **Pasting code in from elsewhere.** The checks match your transcripts against the code. Let your
+  agent write the files; pasted code counts against you.
+- **Submitting without running `check` first.** A rejected entry still counts toward the day's
+  submission limit. The local check is free — the rejection is not.
+- **Ignoring the transcript bundle.** The bundle is part of the entry, not paperwork. If `bundle`
+  says a part is missing, fix it before you submit instead of working around it.
+- **Leaving the deadline to the last hour.** Checks take time, rejections happen, and fixes need a
+  second submit. Give yourself at least a day of slack.
 
 ## Step 3 — Get the bounty's kit
 
